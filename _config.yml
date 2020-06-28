@@ -9,7 +9,9 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_header_intro: "Mila~Trainee"
+resume_name: "Trainee"
+jobTitle: "Hardworking Trainee~~"
+resume_header_intro: "I have a great desire to develop my knowledge ^‿^"
 
 
 # use "yes" to display the email contact button,
