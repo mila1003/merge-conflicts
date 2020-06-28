@@ -9,6 +9,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
+resume_header_intro: "Mila~Trainee"
 
 
 # use "yes" to display the email contact button,
